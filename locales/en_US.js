@@ -5,5 +5,6 @@
  */
 export default {
     "name.test": "est",
-    "age.test": "asdf"
+    "age.test": "asdf",
+    "aaa": "aaa",
 }
