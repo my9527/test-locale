@@ -7,4 +7,5 @@ export default {
     "name.test": "est",
     "age.test": "asdf",
     "aaa": "aaa",
+    "bbb": "bbb",
 }
