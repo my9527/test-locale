@@ -9,4 +9,5 @@ export default {
     "aaa": "aaa",
     "bbb": "bbb",
     "cdcdcd": "测试",
+    'avavav': "<a href=\"https://baiduc.com\">百度</a>",
 }
