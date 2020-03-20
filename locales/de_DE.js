@@ -8,4 +8,5 @@ export default {
     "age.test": "asdf",
     "aaa": "aaa",
     "bbb": "bbb",
+    "cdcdcd": "测试",
 }
