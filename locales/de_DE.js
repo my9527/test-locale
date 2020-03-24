@@ -6,6 +6,6 @@
 export default {
     "name.test": "est",
     "age.test": "asdf",
-  "sdf": "asdfasdf",
-  "ddd": "asdfasdf",
+  "sdf": "dfsdf撒发生asdfasfd",
+  "ddd": "asfdasfdsdfsdfgdfg",
 }
